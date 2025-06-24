@@ -1,1 +1,2 @@
-avadv
+python-telegram-bot==21.3
+firebase-admin
